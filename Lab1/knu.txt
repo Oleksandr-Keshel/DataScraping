@@ -1,0 +1,110 @@
+Faculty name: Географічний факультет URL: https://knu.ua/ua/departments/geography/
+	Department name: Кафедра географії України	URL: No URL
+	Department name: Кафедра геодезії та картографії	URL: No URL
+	Department name: Кафедра гідрології та гідроекології	URL: No URL
+	Department name: Кафедра економічної та соціальної географії	URL: No URL
+	Department name: Кафедра землезнавства та геоморфології	URL: No URL
+	Department name: Кафедра країнознавства та туризму	URL: No URL
+	Department name: Кафедра метеорології та кліматології	URL: No URL
+	Department name: Кафедра фізичної географії та геоекології	URL: No URL
+Faculty name: Економічний факультет URL: https://knu.ua/ua/departments/economics/
+	Department name: Кафедра екологічного менеджменту та підприємництва	URL: No URL
+	Department name: Кафедра економічної кібернетики	URL: No URL
+	Department name: Кафедра економіки підприємства	URL: No URL
+	Department name: Кафедра економічної теорії, макро- і мікроекономіки	URL: No URL
+	Department name: Кафедра іноземних мов	URL: No URL
+	Department name: Кафедра менеджменту інноваційної та інвестиційної діяльності	URL: No URL
+	Department name: Кафедра міжнародної економіки та маркетингу	URL: No URL
+	Department name: Кафедра обліку та аудиту	URL: No URL
+	Department name: Кафедра підприємництва	URL: No URL
+	Department name: Кафедра страхування, банківської справи та ризик-менеджменту	URL: No URL
+	Department name: Кафедра статистики та демографії	URL: No URL
+	Department name: Кафедра фінансів	URL: No URL
+Faculty name: Історичний факультет URL: https://knu.ua/ua/departments/history/
+	Department name: Кафедра археології та музеєзнавства	URL: No URL
+	Department name: Кафедра архівознавства та спеціальних галузей історичної науки	URL: No URL
+	Department name: Кафедра давньої і нової історії України	URL: No URL
+	Department name: Кафедра етнології та краєзнавства	URL: No URL
+	Department name: Кафедра історії мистецтв	URL: No URL
+	Department name: Кафедра історії Центральної та Східної Європи	URL: No URL
+	Department name: Кафедра історії стародавнього світу та середніх віків	URL: No URL
+	Department name: Кафедра новітньої історії України	URL: No URL
+	Department name: Кафедра нової та новітньої історії зарубіжних країн	URL: No URL
+	Department name: Кафедра української історії і етнополітики	URL: No URL
+Faculty name: Механіко-математичний факультет URL: https://knu.ua/ua/departments/mm/
+	Department name: Кафедра алгебри і комп’ютерної математики	URL: No URL
+	Department name: Кафедра загальної математики	URL: No URL
+	Department name: Кафедра інтегральних та диференціальних рівнянь	URL: No URL
+	Department name: Кафедра математичного аналізу	URL: No URL
+	Department name: Кафедра математичної фізики	URL: No URL
+	Department name: Кафедра комп’ютерних методів механіки і процесів керування	URL: No URL
+	Department name: Кафедра теоретичної та прикладної механіки	URL: No URL
+	Department name: Кафедра теорії ймовірностей, статистики та актуарної математики	URL: No URL
+Faculty name: Факультет інформаційних технологій URL: https://knu.ua/ua/departments/it/
+	Department name: Кафедра інтелектуальних технологій	URL: https://knu.uahttp://kiis.knu.ua/
+	Department name: Кафедра інформаційних систем та технологій	URL: https://knu.uahttps://www.ist.knu.ua/
+	Department name: Кафедра кібербезпеки та захисту інформації	URL: https://knu.uahttp://kbzi.knu.ua/
+	Department name: Кафедра мережевих та Інтернет технологій	URL: https://knu.uahttp://nitd.knu.ua/
+	Department name: Кафедра прикладних інформаційних систем	URL: https://knu.uahttp://ais.knu.ua/
+	Department name: Кафедра програмних систем і технологій	URL: https://knu.uahttp://pst.knu.ua/
+	Department name: Кафедра технологій управління	URL: https://knu.uahttp://pm.fit.knu.ua/
+Faculty name: Факультет комп'ютерних наук та кібернетики URL: https://knu.ua/ua/departments/csc/
+	Department name: Кафедра дослідження операцій	URL: https://knu.uahttp://csc.knu.ua/uk/department/or
+	Department name: Кафедра інтелектуальних програмних систем	URL: https://knu.uahttps://iss.csc.knu.ua/
+	Department name: Кафедра математичної інформатики	URL: https://knu.uahttp://csc.knu.ua/uk/department/mi
+	Department name: Кафедра моделювання складних систем	URL: https://knu.uahttp://csc.knu.ua/uk/department/csm
+	Department name: Кафедра обчислювальної математики	URL: https://knu.uahttp://csc.knu.ua/uk/department/cm
+	Department name: Кафедра прикладної статистики	URL: https://knu.uahttp://csc.knu.ua/uk/department/as
+	Department name: Кафедра системного аналізу і теорії прийняття рішень	URL: https://knu.uahttp://csc.knu.ua/uk/department/sadmt
+	Department name: Кафедра теоретичної кібернетики	URL: https://knu.uahttp://csc.knu.ua/uk/department/tc
+	Department name: Кафедра теорії та технології програмування	URL: https://knu.uahttp://csc.knu.ua/uk/department/ttp
+Faculty name: Факультет психології URL: https://knu.ua/ua/departments/psychology/
+	Department name: Кафедра загальної психології	URL: No URL
+	Department name: Кафедра педагогіки	URL: No URL
+	Department name: Кафедра психодіагностики та клінічної психології	URL: No URL
+	Department name: Кафедра психології розвитку	URL: No URL
+	Department name: Кафедра соціальної психології	URL: No URL
+	Department name: Кафедра соціальної реабілітації та соціальної педагогіки	URL: No URL
+	Department name: Кафедра соціальної роботи	URL: No URL
+Faculty name: Факультет радіофізики, електроніки та комп’ютерних систем URL: https://knu.ua/ua/departments/recs/
+	Department name: Кафедра електрофізики	URL: No URL
+	Department name: Кафедра квантової радіофізики та наноелектроніки	URL: No URL
+	Department name: Кафедра комп'ютерної інженерії	URL: No URL
+	Department name: Кафедра математики та теоретичної радіофізики	URL: No URL
+	Department name: Кафедра медичної радіофізики	URL: No URL
+	Department name: Кафедра радіотехніки та радіоелектронних систем	URL: No URL
+	Department name: Кафедра фізичної електроніки	URL: No URL
+Faculty name: Факультет соціології URL: https://knu.ua/ua/departments/sociology/
+	Department name: Кафедра галузевої соціології	URL: No URL
+	Department name: Кафедра методології та методів соціологічних досліджень	URL: No URL
+	Department name: Кафедра соціальних структур та соціальних відносин	URL: No URL
+	Department name: Кафедра теорії та історії соціології	URL: No URL
+Faculty name: Фізичний факультет URL: https://knu.ua/ua/departments/physics/
+	Department name: Кафедра астрономії та фізики космосу	URL: No URL
+	Department name: Кафедра експериментальної фізики	URL: No URL
+	Department name: Кафедра загальної фізики	URL: No URL
+	Department name: Кафедра квантової теорії поля	URL: No URL
+	Department name: Кафедра молекулярної фізики	URL: No URL
+	Department name: Кафедра оптики	URL: No URL
+	Department name: Кафедра теоретичної фізики	URL: No URL
+	Department name: Кафедра фізики металів	URL: No URL
+	Department name: Кафедра фізики функціональних матеріалів	URL: No URL
+	Department name: Кафедра ядерної фізики	URL: No URL
+Faculty name: Філософський факультет URL: https://knu.ua/ua/departments/philosophy/
+	Department name: Кафедра державного управління	URL: No URL
+	Department name: Кафедра етики, естетики і культурології	URL: No URL
+	Department name: Кафедра історії філософії	URL: No URL
+	Department name: Кафедра логіки	URL: No URL
+	Department name: Кафедра політичних наук	URL: No URL
+	Department name: Кафедра політології	URL: No URL
+	Department name: Кафедра релігієзнавства	URL: No URL
+	Department name: Кафедра теоретичної і практичної філософії	URL: No URL
+	Department name: Кафедра української філософії та культури	URL: No URL
+	Department name: Кафедра філософії гуманітарних наук	URL: No URL
+	Department name: Кафедра філософії та методології науки	URL: No URL
+Faculty name: Хімічний факультет URL: https://knu.ua/ua/departments/chemistry/
+	Department name: Кафедра аналітичної хімії	URL: No URL
+	Department name: Кафедра неорганічної хімії	URL: No URL
+	Department name: Кафедра органічної хімії	URL: No URL
+	Department name: Кафедра фізичної хімії	URL: No URL
+	Department name: Кафедра хімії високомолекулярних сполук	URL: No URL
