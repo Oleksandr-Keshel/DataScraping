@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><name>Географічний факультет</name><url>https://knu.ua//ua/departments/geography/</url></item>
+<item><name>Економічний факультет</name><url>https://knu.ua//ua/departments/economics/</url></item>
+<item><name>Історичний факультет</name><url>https://knu.ua//ua/departments/history/</url></item>
+<item><name>Механіко-математичний факультет</name><url>https://knu.ua//ua/departments/mm/</url></item>
+<item><name>Факультет інформаційних технологій</name><url>https://knu.ua//ua/departments/it/</url></item>
+<item><name>Факультет комп'ютерних наук та кібернетики</name><url>https://knu.ua//ua/departments/csc/</url></item>
+<item><name>Факультет психології</name><url>https://knu.ua//ua/departments/psychology/</url></item>
+<item><name>Факультет радіофізики, електроніки та комп’ютерних систем</name><url>https://knu.ua//ua/departments/recs/</url></item>
+<item><name>Факультет соціології</name><url>https://knu.ua//ua/departments/sociology/</url></item>
+<item><name>Фізичний факультет</name><url>https://knu.ua//ua/departments/physics/</url></item>
+<item><name>Філософський факультет</name><url>https://knu.ua//ua/departments/philosophy/</url></item>
+<item><name>Хімічний факультет</name><url>https://knu.ua//ua/departments/chemistry/</url></item>
+<item><name>Кафедра аналітичної хімії</name><url>No URL</url><faculty>Хімічний факультет</faculty></item>
+<item><name>Кафедра неорганічної хімії</name><url>No URL</url><faculty>Хімічний факультет</faculty></item>
+<item><name>Кафедра органічної хімії</name><url>No URL</url><faculty>Хімічний факультет</faculty></item>
+<item><name>Кафедра фізичної хімії</name><url>No URL</url><faculty>Хімічний факультет</faculty></item>
+<item><name>Кафедра хімії високомолекулярних сполук</name><url>No URL</url><faculty>Хімічний факультет</faculty></item>
+<item><name>Кафедра алгебри і комп’ютерної математики</name><url>No URL</url><faculty>Механіко-математичний факультет</faculty></item>
+<item><name>Кафедра загальної математики</name><url>No URL</url><faculty>Механіко-математичний факультет</faculty></item>
+<item><name>Кафедра інтегральних та диференціальних рівнянь</name><url>No URL</url><faculty>Механіко-математичний факультет</faculty></item>
+<item><name>Кафедра математичного аналізу</name><url>No URL</url><faculty>Механіко-математичний факультет</faculty></item>
+<item><name>Кафедра математичної фізики</name><url>No URL</url><faculty>Механіко-математичний факультет</faculty></item>
+<item><name>Кафедра комп’ютерних методів механіки і процесів керування</name><url>No URL</url><faculty>Механіко-математичний факультет</faculty></item>
+<item><name>Кафедра теоретичної та прикладної механіки</name><url>No URL</url><faculty>Механіко-математичний факультет</faculty></item>
+<item><name>Кафедра теорії ймовірностей, статистики та актуарної математики</name><url>No URL</url><faculty>Механіко-математичний факультет</faculty></item>
+<item><name>Кафедра археології та музеєзнавства</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра архівознавства та спеціальних галузей історичної науки</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра давньої і нової історії України</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра етнології та краєзнавства</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра історії мистецтв</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра історії Центральної та Східної Європи</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра історії стародавнього світу та середніх віків</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра новітньої історії України</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра нової та новітньої історії зарубіжних країн</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра української історії і етнополітики</name><url>No URL</url><faculty>Історичний факультет</faculty></item>
+<item><name>Кафедра дослідження операцій</name><url>http://csc.knu.ua/uk/department/or</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра інтелектуальних програмних систем</name><url>https://iss.csc.knu.ua/</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра математичної інформатики</name><url>http://csc.knu.ua/uk/department/mi</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра моделювання складних систем</name><url>http://csc.knu.ua/uk/department/csm</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра обчислювальної математики</name><url>http://csc.knu.ua/uk/department/cm</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра прикладної статистики</name><url>http://csc.knu.ua/uk/department/as</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра системного аналізу і теорії прийняття рішень</name><url>http://csc.knu.ua/uk/department/sadmt</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра теоретичної кібернетики</name><url>http://csc.knu.ua/uk/department/tc</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра теорії та технології програмування</name><url>http://csc.knu.ua/uk/department/ttp</url><faculty>Факультет комп'ютерних наук та кібернетики</faculty></item>
+<item><name>Кафедра галузевої соціології</name><url>No URL</url><faculty>Факультет соціології</faculty></item>
+<item><name>Кафедра методології та методів соціологічних досліджень</name><url>No URL</url><faculty>Факультет соціології</faculty></item>
+<item><name>Кафедра соціальних структур та соціальних відносин</name><url>No URL</url><faculty>Факультет соціології</faculty></item>
+<item><name>Кафедра теорії та історії соціології</name><url>No URL</url><faculty>Факультет соціології</faculty></item>
+<item><name>Кафедра державного управління</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра етики, естетики і культурології</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра історії філософії</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра логіки</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра політичних наук</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра політології</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра релігієзнавства</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра теоретичної і практичної філософії</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра української філософії та культури</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра філософії гуманітарних наук</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра філософії та методології науки</name><url>No URL</url><faculty>Філософський факультет</faculty></item>
+<item><name>Кафедра екологічного менеджменту та підприємництва</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра економічної кібернетики</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра економіки підприємства</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра економічної теорії, макро- і мікроекономіки</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра іноземних мов</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра менеджменту інноваційної та інвестиційної діяльності</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра міжнародної економіки та маркетингу</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра обліку та аудиту</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра підприємництва</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра страхування, банківської справи та ризик-менеджменту</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра статистики та демографії</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра фінансів</name><url>No URL</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра астрономії та фізики космосу</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра експериментальної фізики</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра загальної фізики</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра квантової теорії поля</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра молекулярної фізики</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра оптики</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра теоретичної фізики</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра фізики металів</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра фізики функціональних матеріалів</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра ядерної фізики</name><url>No URL</url><faculty>Фізичний факультет</faculty></item>
+<item><name>Кафедра загальної психології</name><url>No URL</url><faculty>Факультет психології</faculty></item>
+<item><name>Кафедра педагогіки</name><url>No URL</url><faculty>Факультет психології</faculty></item>
+<item><name>Кафедра психодіагностики та клінічної психології</name><url>No URL</url><faculty>Факультет психології</faculty></item>
+<item><name>Кафедра психології розвитку</name><url>No URL</url><faculty>Факультет психології</faculty></item>
+<item><name>Кафедра соціальної психології</name><url>No URL</url><faculty>Факультет психології</faculty></item>
+<item><name>Кафедра соціальної реабілітації та соціальної педагогіки</name><url>No URL</url><faculty>Факультет психології</faculty></item>
+<item><name>Кафедра соціальної роботи</name><url>No URL</url><faculty>Факультет психології</faculty></item>
+<item><name>Кафедра інтелектуальних технологій</name><url>http://kiis.knu.ua/</url><faculty>Факультет інформаційних технологій</faculty></item>
+<item><name>Кафедра інформаційних систем та технологій</name><url>https://www.ist.knu.ua/</url><faculty>Факультет інформаційних технологій</faculty></item>
+<item><name>Кафедра кібербезпеки та захисту інформації</name><url>http://kbzi.knu.ua/</url><faculty>Факультет інформаційних технологій</faculty></item>
+<item><name>Кафедра мережевих та Інтернет технологій</name><url>http://nitd.knu.ua/</url><faculty>Факультет інформаційних технологій</faculty></item>
+<item><name>Кафедра прикладних інформаційних систем</name><url>http://ais.knu.ua/</url><faculty>Факультет інформаційних технологій</faculty></item>
+<item><name>Кафедра програмних систем і технологій</name><url>http://pst.knu.ua/</url><faculty>Факультет інформаційних технологій</faculty></item>
+<item><name>Кафедра технологій управління</name><url>http://pm.fit.knu.ua/</url><faculty>Факультет інформаційних технологій</faculty></item>
+<item><name>Кафедра електрофізики</name><url>No URL</url><faculty>Факультет радіофізики, електроніки та комп’ютерних систем</faculty></item>
+<item><name>Кафедра квантової радіофізики та наноелектроніки</name><url>No URL</url><faculty>Факультет радіофізики, електроніки та комп’ютерних систем</faculty></item>
+<item><name>Кафедра комп'ютерної інженерії</name><url>No URL</url><faculty>Факультет радіофізики, електроніки та комп’ютерних систем</faculty></item>
+<item><name>Кафедра математики та теоретичної радіофізики</name><url>No URL</url><faculty>Факультет радіофізики, електроніки та комп’ютерних систем</faculty></item>
+<item><name>Кафедра медичної радіофізики</name><url>No URL</url><faculty>Факультет радіофізики, електроніки та комп’ютерних систем</faculty></item>
+<item><name>Кафедра радіотехніки та радіоелектронних систем</name><url>No URL</url><faculty>Факультет радіофізики, електроніки та комп’ютерних систем</faculty></item>
+<item><name>Кафедра фізичної електроніки</name><url>No URL</url><faculty>Факультет радіофізики, електроніки та комп’ютерних систем</faculty></item>
+<item><name>Кафедра географії України</name><url>No URL</url><faculty>Географічний факультет</faculty></item>
+<item><name>Кафедра геодезії та картографії</name><url>No URL</url><faculty>Географічний факультет</faculty></item>
+<item><name>Кафедра гідрології та гідроекології</name><url>No URL</url><faculty>Географічний факультет</faculty></item>
+<item><name>Кафедра економічної та соціальної географії</name><url>No URL</url><faculty>Географічний факультет</faculty></item>
+<item><name>Кафедра землезнавства та геоморфології</name><url>No URL</url><faculty>Географічний факультет</faculty></item>
+<item><name>Кафедра країнознавства та туризму</name><url>No URL</url><faculty>Географічний факультет</faculty></item>
+<item><name>Кафедра метеорології та кліматології</name><url>No URL</url><faculty>Географічний факультет</faculty></item>
+<item><name>Кафедра фізичної географії та геоекології</name><url>No URL</url><faculty>Географічний факультет</faculty></item>
+</items>
